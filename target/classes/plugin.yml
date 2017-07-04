@@ -1,0 +1,8 @@
+name: Pokebattle
+version: 1.0-SNAPSHOT
+main: net.gaminghunter.pokebattle.Pokebattle
+authors: [RedstoneRaudi]
+
+commands:
+  setup:
+  start:
